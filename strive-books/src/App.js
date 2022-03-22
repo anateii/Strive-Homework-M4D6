@@ -12,10 +12,6 @@ import {Container} from 'react-bootstrap'
 
 class App extends Component {
 
-  state = {
-    bookAsin: "",
-  };
-
 
 
  render (){
